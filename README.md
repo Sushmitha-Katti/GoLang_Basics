@@ -5,6 +5,7 @@
 3. no var style variable declaration
 
 `<variable_name> := <value>`
+
 4. **comma ok or err ok  syntax** - 
    1. In go there is no try catch bloack
    2. errors will be treated as variables
