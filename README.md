@@ -22,4 +22,16 @@
    1. var ptr *string //initialisation
    2. var ptr = &val. // pointer for already defined variable
 9. Arrays: It's very basic, not much used in go lang
-10. Slices(under the hood arrays): 
+10. Slices(under the hood arrays)
+11. Maps: key value pairs
+12. Struct: equivalvent to classes(No inheritence, no super, no parent )
+13. switch, if else - normal
+   - switch have no break
+   - It has fallthrough which can go to next case as well
+14. Loops : only for loop is there
+   - variation are more
+   - goto(special thing - this acts as label)
+
+15. Functions
+16. Methods: When referencing methods by structs
+17. Defer: 
